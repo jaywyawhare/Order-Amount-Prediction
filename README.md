@@ -96,8 +96,3 @@ The objective of the first half of the summer internship project is:
 1. Compare the accuracies of all the models 
 1. Select the best possible model
 1. Perform Hyperparameter tuning, select best hyperparameters by using appropriate algorithms, come up with the best possible model accuracy.
-
-## Results
-
-
-## Conclusion
